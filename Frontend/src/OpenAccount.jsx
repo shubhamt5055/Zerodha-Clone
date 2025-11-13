@@ -7,7 +7,7 @@ function OpenAccount() {
         <h1 className="mt-5">Open a Zerodha account</h1>
         <p>
           Modern platfroms and apps,{" "}
-          <i class="fa-solid fa-indian-rupee-sign"></i>0 investments, and flat{" "}
+          <i class="fa-solid fa-indian-rupee-sign"></i>0 investments, and flat
           <i class="fa-solid fa-indian-rupee-sign"></i>20 intraday and F&O
           trades.
         </p>
